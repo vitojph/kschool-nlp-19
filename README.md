@@ -12,21 +12,21 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) held at
 
 - [Unix Command Line Tools to Process Text](ShellUnix-proc-text.pdf)
 
-- [NLTK: Access to Corpora and Linguistic Resources](notebooks/nltk-corpus.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-17/blob/master/notebooks/nltk-corpus.ipynb)
+- [NLTK: Access to Corpora and Linguistic Resources](notebooks/nltk-corpus.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-19/blob/master/notebooks/nltk-corpus.ipynb)
 
-- [NLTK: Part-of-Speech Tagging](notebooks/nltk-pos.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-17/blob/master/notebooks/nltk-pos.ipynb)
+- [NLTK: Part-of-Speech Tagging](notebooks/nltk-pos.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-19/blob/master/notebooks/nltk-pos.ipynb)
 
-- [NLTK: Parsing](notebooks/nltk-analyzers.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-17/blob/master/notebooks/nltk-analyzers.ipynb)
+- [NLTK: Parsing](notebooks/nltk-analyzers.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-19/blob/master/notebooks/nltk-analyzers.ipynb)
 
-- [TextBlob: NLP](notebooks/textblob.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-17/blob/master/notebooks/textblob.ipynb)
+- [TextBlob: NLP](notebooks/textblob.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-19/blob/master/notebooks/textblob.ipynb)
 
-- [spaCy: NLP](notebooks/spacy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-17/blob/master/notebooks/spacy.ipynb)
+- [spaCy: NLP](notebooks/spacy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-19/blob/master/notebooks/spacy.ipynb)
 
-- [flair: NLP](notebooks/flair.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-17/blob/master/notebooks/flair.ipynb)
+- [flair: NLP](notebooks/flair.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-19/blob/master/notebooks/flair.ipynb)
 
-- [Space Vector Models](notebooks/vsm.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-17/blob/master/notebooks/vsm.ipynb)
+- [Space Vector Models](notebooks/vsm.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-19/blob/master/notebooks/vsm.ipynb)
 
-- [Word Embeddings](notebooks/word2vec.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-17/blob/master/notebooks/word2vec.ipynb)
+- [Word Embeddings](notebooks/word2vec.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-19/blob/master/notebooks/word2vec.ipynb)
 
 
 ## MOOCs, Courses and Other Materials
