@@ -11,7 +11,7 @@ con bzip2 ocupa unos 3.2 GB.
 Lo descargamos en el volumen de datos persistente:
 
     cd ~/eswiki
-    wget https://dumps.wikimedia.org/eswiki/20200301/eswiki-20i200301-pages-articles-multistream.xml.bz2
+    wget https://dumps.wikimedia.org/eswiki/20200301/eswiki-20200301-pages-articles-multistream.xml.bz2
 
 
 ## Preprocesado: de xml a ficheros individuales txt
